@@ -34,5 +34,5 @@ Upload any PDF → Ask questions → Get instant AI answers
 ---
 
 ## 📫 Contact Me
-- 📧 Email: your@email.com
-- 💼 LinkedIn: your linkedin link
+- 📧 Email: abdulmateenkhan613@email.com
+- 💼 LinkedIn: https://github.com/MATEEN-hub
