@@ -3,6 +3,13 @@
 🤖 AI/ML Engineer from Pakistan, building real intelligent systems
 
 ---
+### 🤖 AI Agent with Web Search
+Ask any question → Agent searches web, Wikipedia, does math → Answers instantly
+
+**Tech:** Python · LangChain · LangGraph · Groq (LLaMA3) · FastAPI
+
+🔗 [View Project](https://github.com/MATEEN-hub/ai-agent)
+
 
 ## 🚀 Featured Project
 
