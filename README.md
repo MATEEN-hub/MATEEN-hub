@@ -2,8 +2,20 @@
 
 🤖 AI/ML Engineer from Pakistan, building real intelligent systems
 
-## 🚀 Featured Project
 ---
+
+## 🚀 Projects
+
+### 🏥 Medical Q&A Chatbot — Fine-tuned GPT-2
+Fine-tuned GPT-2 on 2,000 real medical Q&A samples using LoRA/PEFT.
+Loss dropped from 2.91 → 1.83 in 7 minutes on RTX 3060 GPU.
+
+**Tech:** Python · HuggingFace · LoRA/PEFT · GPT-2 · FastAPI · CUDA
+
+🔗 [View Project](https://github.com/MATEEN-hub/medical-chatbot-finetuned)
+
+---
+
 ### 🤖 AI Agent with Web Search
 Ask any question → Agent searches web, Wikipedia, does math → Answers instantly
 
@@ -11,8 +23,7 @@ Ask any question → Agent searches web, Wikipedia, does math → Answers instan
 
 🔗 [View Project](https://github.com/MATEEN-hub/ai-agent)
 
-
-
+---
 
 ### 📄 Document Q&A Chatbot (RAG)
 Upload any PDF → Ask questions → Get instant AI answers
@@ -27,11 +38,11 @@ Upload any PDF → Ask questions → Get instant AI answers
 
 | AI & ML | Backend | Tools |
 |---|---|---|
-| LangChain | FastAPI | Git & GitHub |
-| Hugging Face | Python | Docker |
-| RAG / FAISS | REST APIs | VS Code |
-| TensorFlow | Pydantic | Linux |
-| PyTorch | | |
+| LoRA / PEFT | FastAPI | Git & GitHub |
+| LangChain | Python | Docker |
+| Hugging Face | REST APIs | VS Code |
+| RAG / FAISS | Pydantic | Linux |
+| TensorFlow / PyTorch | | CUDA / GPU |
 
 ---
 
@@ -42,5 +53,5 @@ Upload any PDF → Ask questions → Get instant AI answers
 ---
 
 ## 📫 Contact Me
-- 📧 Email: abdulmateenkhan613@email.com
-- 💼 LinkedIn: https://github.com/MATEEN-hub
+- 📧 Email: abdulmateenkhan613@gmail.com
+- 💼 LinkedIn: linkedin.com/in/your-linkedin-profile
