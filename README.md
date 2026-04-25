@@ -2,6 +2,7 @@
 
 🤖 AI/ML Engineer from Pakistan, building real intelligent systems
 
+## 🚀 Featured Project
 ---
 ### 🤖 AI Agent with Web Search
 Ask any question → Agent searches web, Wikipedia, does math → Answers instantly
@@ -11,7 +12,7 @@ Ask any question → Agent searches web, Wikipedia, does math → Answers instan
 🔗 [View Project](https://github.com/MATEEN-hub/ai-agent)
 
 
-## 🚀 Featured Project
+
 
 ### 📄 Document Q&A Chatbot (RAG)
 Upload any PDF → Ask questions → Get instant AI answers
